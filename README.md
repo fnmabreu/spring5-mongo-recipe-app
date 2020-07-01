@@ -1,6 +1,4 @@
-[![CircleCI](https://circleci.com/gh/fnmabreu/spring5-mongo-recipe-app.svg?style=shield)(https://circleci.com/gh/fnmabreu/spring5-mongo-recipe-app)
-
-[![CircleCI](https://circleci.com/gh/fnmabreu/sfg-pet-clinic.svg?style=svg)](https://circleci.com/gh/fnmabreu/sfg-pet-clinic)
+[![CircleCI](https://circleci.com/gh/fnmabreu/spring5-mongo-recipe-app.svg?style=shield)](https://circleci.com/gh/fnmabreu/spring5-mongo-recipe-app)
 
 # spring5-mongo-recipe-app
 Recipe Application Using MongoDB
