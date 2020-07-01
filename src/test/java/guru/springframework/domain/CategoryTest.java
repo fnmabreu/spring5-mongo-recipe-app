@@ -19,7 +19,7 @@ class CategoryTest {
         String idValue = "4";
 
         category.setId(idValue);
-        assertEquals(4L, category.getId());
+        assertEquals("4", category.getId());
     }
 
     @Test
