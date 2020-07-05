@@ -26,6 +26,8 @@ dependencies {
 	compile 'org.webjars:bootstrap:3.3.7-1'
 	compileOnly 'org.projectlombok:lombok'
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
+	compile('de.flapdoodle.embed:de.flapdoodle.embed.mongo')
+	testCompile group: "de.flapdoodle.embed", name: "de.flapdoodle.embed.mongo", version: "2.2.0"
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
